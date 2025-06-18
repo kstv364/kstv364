@@ -1,0 +1,25 @@
+name: Sync Medium Link List
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: JasonEtco/rss-to-readme@v2
+        with:
+          feed-url: https://medium.com/feed/@kstvkmrchanda2
+          readme-section: medium
+          max: 5
+          template: "- [{{ title }}]({{ link }})"
+      - name: Commit if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update Medium links" || echo "No changes"
+          git push
