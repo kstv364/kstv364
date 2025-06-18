@@ -51,6 +51,14 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [The Context Window Dilemma: Why You Can’t Just Feed Your LLM the Whole Document?](https://medium.com/@kstvkmrchanda2/the-context-window-dilemma-why-you-cant-just-feed-your-llm-the-whole-document-05c50826ad7a?source=rss-58d70665f776------2)
+- [Power of Engineering Principles: A Deep Dive into Module-Level Insights in the Go Programming…](https://medium.com/@kstvkmrchanda2/power-of-engineering-principles-a-deep-dive-into-module-level-insights-in-the-go-programming-8bd3ebf81798?source=rss-58d70665f776------2)
+- [Effective Software Engineering with Vite: Best Practices and Language Features](https://medium.com/@kstvkmrchanda2/effective-software-engineering-with-vite-best-practices-and-language-features-f2da318bc268?source=rss-58d70665f776------2)
+- [Breaking Language Barriers with AI: Build Your Own Translation & Detection API](https://medium.com/@kstvkmrchanda2/breaking-language-barriers-with-ai-build-your-own-translation-detection-api-bf53710dca58?source=rss-58d70665f776------2)
+- [WebSocket Security: Threats & Defenses Mapped to STRIDE](https://medium.com/@kstvkmrchanda2/websocket-security-threats-defenses-mapped-to-stride-ab14f260ac17?source=rss-58d70665f776------2)
+- [Leveraging Design Patterns: Real-Life Scenarios, Unit Testing Sealed Classes, and Big Tech…](https://medium.com/@kstvkmrchanda2/leveraging-design-patterns-real-life-scenarios-unit-testing-sealed-classes-and-big-tech-006755d0886d?source=rss-58d70665f776------2)
+- [Demystifying Reliability, Maintainability, and Scalability in Distributed Software Systems](https://medium.com/@kstvkmrchanda2/demystifying-reliability-maintainability-and-scalability-in-distributed-software-systems-43481f7daa9c?source=rss-58d70665f776------2)
+- [Exploring OYO’s Dynamic System Architecture: A Comprehensive Overview](https://medium.com/@kstvkmrchanda2/system-design-for-oyo-ddadabcba050?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
