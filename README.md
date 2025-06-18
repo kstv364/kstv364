@@ -55,7 +55,10 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 - **[Leveraging Design Patterns: Real‑Life Scenarios, Unit Testing Sealed Classes, and Big Tech…](https://medium.com/@kstvkmrchanda2/leveraging-design-patterns-real-life-scenarios-unit-testing-sealed-classes-and-big-tech-006755d0886d)** _(Jan 17, 2025)_  
 - **[WebSocket Security: Threats & Defenses Mapped to STRIDE](https://medium.com/@kstvkmrchanda2/websocket-security-threats-defenses-mapped-to-stride-ab14f260ac17)** _(Mar 2, 2025)_  
 - **[Demystifying Reliability, Maintainability, and Scalability in Distributed Software Systems](https://medium.com/@kstvkmrchanda2/demystifying-reliability-maintainability-and-scalability-in-distributed-software-systems-43481f7daa9c)** _(Mar 6, 2024)_  
-- **[Exploring OYO’s Dynamic System Architecture: A Comprehensive Overview](https://medium.com/@kstvkmrchanda2/system-design-for-oyo-ddadabcba050)** _(Mar 5, 2024)_  
+- **[Exploring OYO’s Dynamic System Architecture: A Comprehensive Overview](https://medium.com/@kstvkmrchanda2/system-design-for-oyo-ddadabcba050)** _(Mar 5, 2024)_
+  
+<!-- START_SECTION:medium -->
+<!-- END_SECTION:medium -->
 
 ---
 
