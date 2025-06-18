@@ -14,7 +14,7 @@ jobs:
         with:
           feed-url: https://medium.com/feed/@kstvkmrchanda2
           readme-section: medium
-          max: 5
+          max: 10
           template: "- [{{ title }}]({{ link }})"
       - name: Commit if changed
         run: |

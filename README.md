@@ -50,8 +50,8 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 
 ## 📝 Latest Medium Articles
   
-<!-- START_SECTION:medium -->
-<!-- END_SECTION:medium -->
+<!--START_SECTION:medium-->
+<!--END_SECTION:medium-->
 
 ---
 
