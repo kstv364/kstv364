@@ -51,6 +51,7 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [How Next-Token Prediction Works in LLMs](https://medium.com/@kstvkmrchanda2/how-next-token-prediction-works-in-llms-9a89c1b9f6ae?source=rss-58d70665f776------2)
 - [The Context Window Dilemma: Why You Can’t Just Feed Your LLM the Whole Document?](https://medium.com/@kstvkmrchanda2/the-context-window-dilemma-why-you-cant-just-feed-your-llm-the-whole-document-05c50826ad7a?source=rss-58d70665f776------2)
 - [Power of Engineering Principles: A Deep Dive into Module-Level Insights in the Go Programming…](https://medium.com/@kstvkmrchanda2/power-of-engineering-principles-a-deep-dive-into-module-level-insights-in-the-go-programming-8bd3ebf81798?source=rss-58d70665f776------2)
 - [Effective Software Engineering with Vite: Best Practices and Language Features](https://medium.com/@kstvkmrchanda2/effective-software-engineering-with-vite-best-practices-and-language-features-f2da318bc268?source=rss-58d70665f776------2)
