@@ -12,9 +12,9 @@ Building cloud‑native, microservices‑driven systems with a focus on performa
 
 ## 💼 What I Do
 
-- 🔧 **Full‑stack**: C# · .NET 8 · Node.js · React · TypeScript  
+- 🔧 **Full‑stack**: C# · .NET 8 · Python · FastAPI · React · TypeScript  
 - ☁️ **Cloud & DevOps**: AWS (S3, Lambda, EC2) · Docker · Kubernetes · GitHub Actions  
-- 🧪 **Quality**: TDD · xUnit · Jest · Playwright  
+- 🧪 **Quality**: TDD · xUnit · Jest · Playwright  · PyTest
 - 📈 **Performance & Scale**: Profiling · Caching · Distributed Systems · CQRS/Event Sourcing  
 
 ---
@@ -23,7 +23,7 @@ Building cloud‑native, microservices‑driven systems with a focus on performa
 
 | Frontend                       | Backend                            | Cloud & DevOps              | Databases & Cache           |
 |--------------------------------|------------------------------------|-----------------------------|-----------------------------|
-| React · TypeScript · Tailwind  | C# · ASP.NET Core · Node.js · Express | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  |
+| React · TypeScript · Tailwind   | Python · FastAPI · C# · ASP.NET Core  | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  |
 
 ---
 
@@ -67,7 +67,7 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 
 ## 📫 Let’s Connect
 
-- 🌐 Portfolio: https://kstv364.github.io  
+- 🌐 Medium : https://medium.com/@kstvkmrchanda2
 - 💼 LinkedIn: https://www.linkedin.com/in/kaustav-chanda/  
 - 📬 Email: kaustav.chanda.work@gmail.com  
 
