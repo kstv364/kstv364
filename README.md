@@ -51,6 +51,7 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Unlocking the Power of Deep Learning: A Journey to Identify Digits](https://medium.com/@kstvkmrchanda2/unlocking-the-power-of-deep-learning-a-journey-to-identify-digits-50b628f1c139?source=rss-58d70665f776------2)
 - [Building a Composable, Context-Aware Rate Limiter in Java](https://medium.com/@kstvkmrchanda2/building-a-composable-context-aware-rate-limiter-in-java-681ed97cabed?source=rss-58d70665f776------2)
 - [LLD : Designing a Scalable Notification System in Java](https://medium.com/@kstvkmrchanda2/lld-designing-a-scalable-notification-system-in-java-97aa89f5f561?source=rss-58d70665f776------2)
 - [Retrieval-Augmented Generation (RAG) with Chroma Vector Store: Theory and Practice](https://medium.com/@kstvkmrchanda2/retrieval-augmented-generation-rag-with-chroma-vector-store-theory-and-practice-26525fe516d5?source=rss-58d70665f776------2)
@@ -60,7 +61,6 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 - [Effective Software Engineering with Vite: Best Practices and Language Features](https://medium.com/@kstvkmrchanda2/effective-software-engineering-with-vite-best-practices-and-language-features-f2da318bc268?source=rss-58d70665f776------2)
 - [Breaking Language Barriers with AI: Build Your Own Translation & Detection API](https://medium.com/@kstvkmrchanda2/breaking-language-barriers-with-ai-build-your-own-translation-detection-api-bf53710dca58?source=rss-58d70665f776------2)
 - [WebSocket Security: Threats & Defenses Mapped to STRIDE](https://medium.com/@kstvkmrchanda2/websocket-security-threats-defenses-mapped-to-stride-ab14f260ac17?source=rss-58d70665f776------2)
-- [Leveraging Design Patterns: Real-Life Scenarios, Unit Testing Sealed Classes, and Big Tech…](https://medium.com/@kstvkmrchanda2/leveraging-design-patterns-real-life-scenarios-unit-testing-sealed-classes-and-big-tech-006755d0886d?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
