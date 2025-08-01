@@ -1,12 +1,9 @@
-<!--
-  🎉 Welcome to your GitHub Profile README!
-  Copy this file into a repo named exactly like your username (e.g. “kstv364/kstv364”).
--->
-
 # 👋 Hi, I’m Kaustav Chanda!
 
 I’m a **Senior Software Engineer @ Hyland**, based in Kolkata, India 🇮🇳  
 Building cloud‑native, microservices‑driven systems with a focus on performance, scalability, and DevOps automation.
+
+Increasingly passionate about AI/ML—building real-world applications that bridge deep learning with backend systems.
 
 ---
 
@@ -14,16 +11,27 @@ Building cloud‑native, microservices‑driven systems with a focus on performa
 
 - 🔧 **Full‑stack**: C# · .NET 8 · Python · FastAPI · React · TypeScript  
 - ☁️ **Cloud & DevOps**: AWS (S3, Lambda, EC2) · Docker · Kubernetes · GitHub Actions  
-- 🧪 **Quality**: TDD · xUnit · Jest · Playwright  · PyTest
+- 🧪 **Quality**: TDD · xUnit · Jest · Playwright  · PyTest  
 - 📈 **Performance & Scale**: Profiling · Caching · Distributed Systems · CQRS/Event Sourcing  
+- 🤖 **AI/ML**: RAG systems · CLIP · Transformers · LLM tokenization & embedding · Langchain workflows · real-time translation APIs  
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend                       | Backend                            | Cloud & DevOps              | Databases & Cache           |
-|--------------------------------|------------------------------------|-----------------------------|-----------------------------|
-| React · TypeScript · Tailwind   | Python · FastAPI · C# · ASP.NET Core  | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  |
+| Backend                            | Cloud & DevOps              | Databases & Cache           | AI/ML  
+|------------------------------------|-----------------------------|-----------------------------|-----------------------------|
+| Python · FastAPI · C# · ASP.NET Core  | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  | Pytorch · Transformers · Langchain · CLIP · ChromaDB · scikit-learn
+
+---
+
+## 🧠 AI/ML Highlights
+
+- 🖼️ **CLIP-based zero-shot classification** for contextual image understanding  
+- 🧠 **LLM theory & practice**: token prediction, context windows, embedding pipelines  
+- 🧾 **Retrieval-Augmented Generation (RAG)** with Chroma vector store and FastAPI  
+- 🌐 **Real-time translation & language detection** APIs using open-source models  
+- 🛠️ Hands-on with **Langchain**, **transformers**, and **PyTorch** for custom pipelines  
 
 ---
 
@@ -67,7 +75,7 @@ An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and D
 
 ## 📫 Let’s Connect
 
-- 🌐 Medium : https://medium.com/@kstvkmrchanda2
+- 🌐 Medium : https://medium.com/@kstvkmrchanda2  
 - 💼 LinkedIn: https://www.linkedin.com/in/kaustav-chanda/  
 - 📬 Email: kaustav.chanda.work@gmail.com  
 
