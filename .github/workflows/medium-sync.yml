@@ -25,10 +25,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet README.md; then
+      
+          if git diff --exit-code README.md; then
             echo "No changes to README.md, skipping commit."
             exit 0
           fi
+      
           git add README.md
           git commit -m "Update Medium links"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
