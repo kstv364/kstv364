@@ -1,58 +1,62 @@
-# 👋 Hi, I’m Kaustav Chanda!
+# 👋 Hi, I’m Kaustav Chanda!  
 
 I’m a **Senior Software Engineer @ Hyland**, based in Kolkata, India 🇮🇳  
-Building cloud‑native, microservices‑driven systems with a focus on performance, scalability, and DevOps automation.
+Building **cloud-native, microservices-driven systems** with a strong focus on **performance, scalability, and DevOps automation**.  
 
-Increasingly passionate about AI/ML—building real-world applications that bridge deep learning with backend systems.
+Increasingly passionate about **AI/ML**—creating **real-world applications** that bridge **deep learning with backend engineering** to solve complex problems.  
 
 ---
 
-## 💼 What I Do
+## 💼 What I Do  
 
-- 🔧 **Full‑stack**: C# · .NET 8 · Python · FastAPI · React · TypeScript  
+- 🔧 **Full-stack**: C# · .NET 8 · Python · FastAPI · React · TypeScript  
 - ☁️ **Cloud & DevOps**: AWS (S3, Lambda, EC2) · Docker · Kubernetes · GitHub Actions  
-- 🧪 **Quality**: TDD · xUnit · Jest · Playwright  · PyTest  
+- 🧪 **Quality**: TDD · xUnit · Jest · Playwright · PyTest  
 - 📈 **Performance & Scale**: Profiling · Caching · Distributed Systems · CQRS/Event Sourcing  
-- 🤖 **AI/ML**: RAG systems · CLIP · Transformers · LLM tokenization & embedding · Langchain workflows · real-time translation APIs  
+- 🤖 **AI/ML**: RAG systems · CLIP · Transformers · Langchain workflows · real-time translation APIs  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 | Backend                            | Cloud & DevOps              | Databases & Cache           | AI/ML  
-|------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| Python · FastAPI · C# · ASP.NET Core  | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  | Pytorch · Transformers · Langchain · CLIP · ChromaDB · scikit-learn
+|------------------------------------|-----------------------------|-----------------------------|-----------------------------|  
+| Python · FastAPI · C# · ASP.NET Core  | AWS (S3 · EC2 · Lambda) · Docker · Kubernetes · GitHub Actions | PostgreSQL · MongoDB · Redis  | PyTorch · Transformers · LangChain · CLIP · ChromaDB · scikit-learn  
 
 ---
 
-## 🧠 AI/ML Highlights
-
-- 🖼️ **CLIP-based zero-shot classification** for contextual image understanding  
+## 🧠 AI/ML Highlights  
+- 🤖 **RAG systems**: Building intelligent, context-aware applications using **Retrieval-Augmented Generation**
 - 🧠 **LLM theory & practice**: token prediction, context windows, embedding pipelines  
-- 🧾 **Retrieval-Augmented Generation (RAG)** with Chroma vector store and FastAPI  
-- 🌐 **Real-time translation & language detection** APIs using open-source models  
-- 🛠️ Hands-on with **Langchain**, **transformers**, and **PyTorch** for custom pipelines  
+- 🌐 **Real-time translation & language detection APIs** using open-source models  
+- 🛠️ **Hands-on with LangChain, PyTorch, Transformers, and LangGraph** for custom pipelines  
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured AI/ML Projects  
 
-### 🔹 [Mango](https://github.com/kstv364/Mango)  
-A Docker‑Compose–based microservices ecosystem for a food‑delivery platform. Includes Auth, Coupon, Email, Order, Product & ShoppingCart APIs plus a message bus and React front‑end.  
+### 🔹 [RAGzilla](https://github.com/kstv364/RAGzilla)  
+An all-in-one toolkit for building, experimenting, and sharing **RAG (Retrieval-Augmented Generation) workflows**—designed for production-ready AI applications.  
 
-### 🔹 [CF‑POC‑S3Upload](https://github.com/kstv364/CF-POC-S3Upload)  
-Proof‑of‑concept for high‑performance, resumable uploads to AWS S3 using a C# client and presigned URLs.  
+### 🔹 [transcripter](https://github.com/kstv364/transcripter)  
+A **scalable transcript summarizer** using Python, LLaMA3, LangChain, Ollama API & Gradio. Handles large audio/video transcriptions with intelligent chunking.  
 
-### 🔹 [EcommereceWithMicroservices](https://github.com/kstv364/EcommereceWithMicroservices)  
-An event‑driven e‑commerce backend demonstrating CQRS, Event Sourcing, and Dockerized services on Kubernetes.
+### 🔹 [Pytorch-Basics](https://github.com/kstv364/Pytorch-Basics)  
+A hands-on **PyTorch deep learning guide**—from fundamentals to advanced concepts—illustrating clarity in ML theory and practical modeling.  
+
+### 🔹 [agents-towards-production](https://github.com/kstv364/agents-towards-production)  
+A **production-first, code-first tutorial series** for designing, deploying, and scaling **GenAI agents** with real-world best practices.  
+
+### 🔹 [langgraph-basics](https://github.com/kstv364/langgraph-basics)  
+Introduces **LangGraph fundamentals**—building structured, graph-based workflows for LLM applications.  
 
 ---
 
-## 📊 GitHub Stats & Badges
+## 📊 GitHub Stats & Badges  
 
 [![GitHub Followers](https://img.shields.io/github/followers/kstv364?label=Followers&style=social)](https://github.com/kstv364?tab=followers)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kstv364&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kstv364&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kstv364&layout=compact&theme=radical)  
 
 ---
 
