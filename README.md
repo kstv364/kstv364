@@ -63,6 +63,7 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Designing Yelp for Scale and Speed: A Cloud-Native Blueprint](https://medium.com/@kstvkmrchanda2/designing-yelp-for-scale-and-speed-a-cloud-native-blueprint-c29449407ab1?source=rss-58d70665f776------2)
 - [Unleashing Your Inner Spielberg: Crafting AI-Powered Cinematic Narratives with Nano Banana](https://medium.com/@kstvkmrchanda2/unleashing-your-inner-spielberg-crafting-ai-powered-cinematic-narratives-with-nano-banana-94cc6202c6a9?source=rss-58d70665f776------2)
 - [Beyond the Hype: Unpacking the Power and Peril of Open-Source Generative AI Models](https://medium.com/@kstvkmrchanda2/beyond-the-hype-unpacking-the-power-and-peril-of-open-source-generative-ai-models-c2bc43d7d7cd?source=rss-58d70665f776------2)
 - [The AI Engineer: Orchestrating Intelligence in the API-Driven Era](https://medium.com/@kstvkmrchanda2/the-ai-engineer-orchestrating-intelligence-in-the-api-driven-era-cac8c60fe417?source=rss-58d70665f776------2)
@@ -72,7 +73,6 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 - [Building a Composable, Context-Aware Rate Limiter in Java](https://medium.com/@kstvkmrchanda2/building-a-composable-context-aware-rate-limiter-in-java-681ed97cabed?source=rss-58d70665f776------2)
 - [LLD : Designing a Scalable Notification System in Java](https://medium.com/@kstvkmrchanda2/lld-designing-a-scalable-notification-system-in-java-97aa89f5f561?source=rss-58d70665f776------2)
 - [Retrieval-Augmented Generation (RAG) with Chroma Vector Store: Theory and Practice](https://medium.com/@kstvkmrchanda2/retrieval-augmented-generation-rag-with-chroma-vector-store-theory-and-practice-26525fe516d5?source=rss-58d70665f776------2)
-- [How Next-Token Prediction Works in LLMs](https://medium.com/@kstvkmrchanda2/how-next-token-prediction-works-in-llms-9a89c1b9f6ae?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
