@@ -63,6 +63,7 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Mastering Kafka for System Design: An Architect’s Deep Dive](https://medium.com/@kstvkmrchanda2/mastering-kafka-for-system-design-an-architects-deep-dive-d3829ab65a4b?source=rss-58d70665f776------2)
 - [Mastering Enterprise Search: A Deep Dive into Elasticsearch in Cloud-Native Architectures](https://medium.com/@kstvkmrchanda2/mastering-enterprise-search-a-deep-dive-into-elasticsearch-in-cloud-native-architectures-431cd43f607c?source=rss-58d70665f776------2)
 - [Designing Yelp for Scale and Speed: A Cloud-Native Blueprint](https://medium.com/@kstvkmrchanda2/designing-yelp-for-scale-and-speed-a-cloud-native-blueprint-c29449407ab1?source=rss-58d70665f776------2)
 - [Unleashing Your Inner Spielberg: Crafting AI-Powered Cinematic Narratives with Nano Banana](https://medium.com/@kstvkmrchanda2/unleashing-your-inner-spielberg-crafting-ai-powered-cinematic-narratives-with-nano-banana-94cc6202c6a9?source=rss-58d70665f776------2)
@@ -72,7 +73,6 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 - [Unlocking Zero-Shot Classification with CLIP](https://medium.com/@kstvkmrchanda2/unlocking-zero-shot-classification-with-clip-1ef4e79526c6?source=rss-58d70665f776------2)
 - [Unlocking the Power of Deep Learning: A Journey to Identify Digits](https://medium.com/@kstvkmrchanda2/unlocking-the-power-of-deep-learning-a-journey-to-identify-digits-50b628f1c139?source=rss-58d70665f776------2)
 - [Building a Composable, Context-Aware Rate Limiter in Java](https://medium.com/@kstvkmrchanda2/building-a-composable-context-aware-rate-limiter-in-java-681ed97cabed?source=rss-58d70665f776------2)
-- [LLD : Designing a Scalable Notification System in Java](https://medium.com/@kstvkmrchanda2/lld-designing-a-scalable-notification-system-in-java-97aa89f5f561?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
