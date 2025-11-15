@@ -63,6 +63,7 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Unlock Your Creative Potential: Instruction-Based Image Editing with Open-Source Models (No…](https://medium.com/@kstvkmrchanda2/unlock-your-creative-potential-instruction-based-image-editing-with-open-source-models-no-4fd8261c5685?source=rss-58d70665f776------2)
 - [Multi-Tenancy in SaaS Applications: A Deep Dive](https://medium.com/@kstvkmrchanda2/multi-tenancy-in-saas-applications-a-deep-dive-4150d76da43b?source=rss-58d70665f776------2)
 - [Designing a Scalable Notification System: From Basics to Fan-Out Architectures](https://medium.com/@kstvkmrchanda2/designing-a-scalable-notification-system-from-basics-to-fan-out-architectures-b2a3cd249f1b?source=rss-58d70665f776------2)
 - [Mastering Kafka for System Design: An Architect’s Deep Dive](https://medium.com/@kstvkmrchanda2/mastering-kafka-for-system-design-an-architects-deep-dive-d3829ab65a4b?source=rss-58d70665f776------2)
@@ -72,7 +73,6 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 - [Beyond the Hype: Unpacking the Power and Peril of Open-Source Generative AI Models](https://medium.com/@kstvkmrchanda2/beyond-the-hype-unpacking-the-power-and-peril-of-open-source-generative-ai-models-c2bc43d7d7cd?source=rss-58d70665f776------2)
 - [The AI Engineer: Orchestrating Intelligence in the API-Driven Era](https://medium.com/@kstvkmrchanda2/the-ai-engineer-orchestrating-intelligence-in-the-api-driven-era-cac8c60fe417?source=rss-58d70665f776------2)
 - [Building an AI-Powered Transcript Summarizer: From Idea to Production with LangGraph and Ollama](https://medium.com/@kstvkmrchanda2/building-an-ai-powered-transcript-summarizer-from-idea-to-production-with-langgraph-and-ollama-d7440bc1aab4?source=rss-58d70665f776------2)
-- [Unlocking Zero-Shot Classification with CLIP](https://medium.com/@kstvkmrchanda2/unlocking-zero-shot-classification-with-clip-1ef4e79526c6?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
