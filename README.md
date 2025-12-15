@@ -63,6 +63,7 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Unveiling SaaS and why we need it — Part 1](https://medium.com/@kstvkmrchanda2/unveiling-saas-and-why-we-need-it-part-1-063c7feb485e?source=rss-58d70665f776------2)
 - [Unlocking Your APIs: A Deep Dive into Authentication with API Keys, JWT, and OAuth](https://medium.com/@kstvkmrchanda2/unlocking-your-apis-a-deep-dive-into-authentication-with-api-keys-jwt-and-oauth-605a2f3a4c1d?source=rss-58d70665f776------2)
 - [Bridging the Gap: How AI Agents & LLMs Connect to Your Data with RAG and MCP](https://medium.com/@kstvkmrchanda2/bridging-the-gap-how-ai-agents-llms-connect-to-your-data-with-rag-and-mcp-4c3b58366c88?source=rss-58d70665f776------2)
 - [Unlock Your Creative Potential: Instruction-Based Image Editing with Open-Source Models (No…](https://medium.com/@kstvkmrchanda2/unlock-your-creative-potential-instruction-based-image-editing-with-open-source-models-no-4fd8261c5685?source=rss-58d70665f776------2)
@@ -72,7 +73,6 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 - [Mastering Enterprise Search: A Deep Dive into Elasticsearch in Cloud-Native Architectures](https://medium.com/@kstvkmrchanda2/mastering-enterprise-search-a-deep-dive-into-elasticsearch-in-cloud-native-architectures-431cd43f607c?source=rss-58d70665f776------2)
 - [Designing Yelp for Scale and Speed: A Cloud-Native Blueprint](https://medium.com/@kstvkmrchanda2/designing-yelp-for-scale-and-speed-a-cloud-native-blueprint-c29449407ab1?source=rss-58d70665f776------2)
 - [Unleashing Your Inner Spielberg: Crafting AI-Powered Cinematic Narratives with Nano Banana](https://medium.com/@kstvkmrchanda2/unleashing-your-inner-spielberg-crafting-ai-powered-cinematic-narratives-with-nano-banana-94cc6202c6a9?source=rss-58d70665f776------2)
-- [Beyond the Hype: Unpacking the Power and Peril of Open-Source Generative AI Models](https://medium.com/@kstvkmrchanda2/beyond-the-hype-unpacking-the-power-and-peril-of-open-source-generative-ai-models-c2bc43d7d7cd?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
