@@ -63,6 +63,7 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 ## 📝 Latest Medium Articles
   
 <!--START_SECTION:medium-->
+- [Helm: The Kubernetes Package Manager Powering Cloud-Native Deployments](https://medium.com/the-control-plane/helm-the-kubernetes-package-manager-powering-cloud-native-deployments-d0124ba359e2?source=rss-58d70665f776------2)
 - [Unveiling SaaS and why we need it — Part 1](https://medium.com/@kstvkmrchanda2/unveiling-saas-and-why-we-need-it-part-1-063c7feb485e?source=rss-58d70665f776------2)
 - [Unlocking Your APIs: A Deep Dive into Authentication with API Keys, JWT, and OAuth](https://medium.com/@kstvkmrchanda2/unlocking-your-apis-a-deep-dive-into-authentication-with-api-keys-jwt-and-oauth-605a2f3a4c1d?source=rss-58d70665f776------2)
 - [Bridging the Gap: How AI Agents & LLMs Connect to Your Data with RAG and MCP](https://medium.com/@kstvkmrchanda2/bridging-the-gap-how-ai-agents-llms-connect-to-your-data-with-rag-and-mcp-4c3b58366c88?source=rss-58d70665f776------2)
@@ -72,7 +73,6 @@ Introduces **LangGraph fundamentals**—building structured, graph-based workflo
 - [Mastering Kafka for System Design: An Architect’s Deep Dive](https://medium.com/@kstvkmrchanda2/mastering-kafka-for-system-design-an-architects-deep-dive-d3829ab65a4b?source=rss-58d70665f776------2)
 - [Mastering Enterprise Search: A Deep Dive into Elasticsearch in Cloud-Native Architectures](https://medium.com/@kstvkmrchanda2/mastering-enterprise-search-a-deep-dive-into-elasticsearch-in-cloud-native-architectures-431cd43f607c?source=rss-58d70665f776------2)
 - [Designing Yelp for Scale and Speed: A Cloud-Native Blueprint](https://medium.com/@kstvkmrchanda2/designing-yelp-for-scale-and-speed-a-cloud-native-blueprint-c29449407ab1?source=rss-58d70665f776------2)
-- [Unleashing Your Inner Spielberg: Crafting AI-Powered Cinematic Narratives with Nano Banana](https://medium.com/@kstvkmrchanda2/unleashing-your-inner-spielberg-crafting-ai-powered-cinematic-narratives-with-nano-banana-94cc6202c6a9?source=rss-58d70665f776------2)
 <!--END_SECTION:medium-->
 
 ---
